@@ -8,6 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node app.js",
     "dev": "nodemon --exec ts-node app.ts",
+     "build": "tsc",
      "type": "module"
   },
   "keywords": [],
